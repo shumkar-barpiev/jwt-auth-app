@@ -1,4 +1,4 @@
-package com.shumkar.jwt_auth.Service;
+package com.shumkar.jwt_auth.service;
 
 import io.jsonwebtoken.JwtBuilder;
 import io.jsonwebtoken.Jwts;

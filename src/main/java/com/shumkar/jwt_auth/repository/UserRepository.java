@@ -1,6 +1,6 @@
-package com.shumkar.jwt_auth.Repository;
+package com.shumkar.jwt_auth.repository;
 
-import com.shumkar.jwt_auth.Model.User;
+import com.shumkar.jwt_auth.model.User;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 

@@ -1,4 +1,4 @@
-package com.shumkar.jwt_auth.Model;
+package com.shumkar.jwt_auth.model;
 
 import jakarta.persistence.*;
 import lombok.Getter;
